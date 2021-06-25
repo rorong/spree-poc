@@ -1,0 +1,7 @@
+<div data-hook="admin_product_form_short_description">
+  <%= f.field_container :short_description, class: ['form-group'] do %>
+    <%= f.label :short_description %>
+    <%= f.error_message_on :short_description %>
+    <%= f.text_area :short_description, class: 'form-control', placeholder: 'Am besten drei Bullet Points' %>
+  <% end %>
+</div>
