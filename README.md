@@ -4,7 +4,7 @@ Spree is a complete open source e-commerce solution built with Ruby on Rails.
 
 Spree can be easily combined with any Ruby on Rails application meaning you can add e-commerce capabilities to your existing RoR applications.
 
-This project inlcude a adding of Spree to a Ruby on Rails application and have a fully functional Spree application up and running. Adding a column to Spree Product Table and Using Deface to show on Spree Product Form, customizing Spree default styling. The Project using Active Storage for Image Upload, which can be configured to store images on local, AWS, Microsoft Azure Storage Service, Google Cloud Storage Service. 
+This project inlcude a adding of Spree to a Ruby on Rails application and have a fully functional Spree application up and running. Adding a column to Spree Product Table and Using Deface to show on Spree Product Form, customizing Spree default styling. The Project using Active Storage which is default attachment storage system since Spree 3.6, which can be configured to store images on local, AWS, Microsoft Azure Storage Service, Google Cloud Storage Service. 
 
 Ruby on Rails and Spree intregrations provide customizability to 
 - Styling
