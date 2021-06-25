@@ -27,14 +27,15 @@ Installation:
 - cd spree-poc
 - bundle install
 
-GEM
+GEM:
 - gem 'spree', '~> 4.2'
 - gem 'spree_auth_devise', '~> 4.3'
 - gem 'spree_gateway', '~> 3.9'
 - gem 'spree_i18n', '~> 5.0'
 - gem 'sassc', github: 'sass/sassc-ruby', branch: 'master' # only needed for MacOS and Ruby 3.0
 - gem 'deface', '~> 1.8', '>= 1.8.1'
-Homepage
+
+Homepage:
 ![Rails Spree Home Page](https://user-images.githubusercontent.com/18528697/123435306-0f8f1c00-d5eb-11eb-8b59-84de4a84093f.png)
 
 Admin Panel
