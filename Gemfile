@@ -49,6 +49,8 @@ gem 'deface', '~> 1.8', '>= 1.8.1'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
+  # The Ruby Linter/Formatter that Serves and Protects
+  gem 'rubocop', '~> 1.35', '>= 1.35.1'
 end
 
 group :development do
